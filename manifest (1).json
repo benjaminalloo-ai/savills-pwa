@@ -1,0 +1,40 @@
+{
+  "background_color": "#ffffff",
+  "description": "Savills Ai",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Savills Ai",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Savills Ai",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "https://lh3.googleusercontent.com/sitesv/AA5AbUCum_Rl4n4SODPcA3sXB-CfLMiT724txJi_c15znuT0pSQkWhXCnex-wKn6v1E7fXLyLUBQ-jCPo1J5AQaP04ToXNia9Ql6w26yb9WffnPWDAUrto31CFIYoSIIIItg4pmPOxp5U3T_aGNU14U2zK5BGe5op4Gu3hFj929dUTCNJqkm5ZzcXsEtQ2VrQ4B_CHbMbkhTnR4tDlqtl0Q",
+      "type": "image/png",
+      "sizes": "225x225",
+      "isSquare": true,
+      "isPng": true,
+      "isWebp": false,
+      "isJpg": false,
+      "width": 225,
+      "is512x512": false,
+      "is256x256": false,
+      "is192x192": false
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/sitesv/AA5AbUA2mkF8xjNwWE_puPsqyofPwEmSdzPsii2D6dDKUl1IxRMhDOtnlpYoTuHoZejbiCCLN0n3tUzA3mXL7m1qRN2GEfoRs0YbyaYKIDMH-ttMOP1bZV4dMusWqVex_zbv3gWuENVDP8ei9F6jJtQZ0B9lOSDhAzAPmftHWtr57cmzZ1qAnnGl2YdxJ_Y=w16383",
+      "type": "image/png",
+      "sizes": "723x627",
+      "isSquare": false,
+      "isPng": true,
+      "isWebp": false,
+      "isJpg": false,
+      "width": 723,
+      "is512x512": false,
+      "is256x256": false,
+      "is192x192": false
+    }
+  ]
+}
